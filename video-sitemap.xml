@@ -1,0 +1,12 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://cursodemicroblading.info/sada/</loc>
+	<video:video>
+		<video:player_loc allow_embed="yes" autoplay="autoplay=1">https://www.youtube.com/embed/Ew-A4nifeRQ</video:player_loc>
+  	<video:thumbnail_loc>http://i.ytimg.com/vi/Ew-A4nifeRQ/hqdefault.jpg</video:thumbnail_loc>
+  	<video:title>Kero Desenhar</video:title>
+  	<video:description>ARK STUDIO - Apresentação do curso Kero Desenhar</video:description>
+  	<video:duration>405</video:duration>
+  </video:video>
+</url>
+</urlset>
