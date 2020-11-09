@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-	<loc>https://www.youtube.com</loc>
+	<loc>https://kerodesenhar.info</loc>
 	<video:video>
 		<video:player_loc allow_embed="yes" autoplay="autoplay=1">https://www.youtube.com/embed/Ew-A4nifeRQ</video:player_loc>
   	<video:thumbnail_loc>http://i.ytimg.com/vi/Ew-A4nifeRQ/hqdefault.jpg</video:thumbnail_loc>
